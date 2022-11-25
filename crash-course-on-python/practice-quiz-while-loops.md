@@ -5,7 +5,7 @@
 What are while loops in Python?
 &nbsp;  
 
-**While loops let the computer execute a set of instructions while a condition is true.**&nbsp;  
+_**While loops let the computer execute a set of instructions while a condition is true.**_&nbsp;  
 While loops instruct the computer to execute a piece of code a set number of times.&nbsp;  
 While loops let us branch execution on whether or not a condition is true.&nbsp;  
 While loops are how we initialize variables in Python.
