@@ -39,7 +39,6 @@ not a: True if a is False, False if a is True.
 ```
 &nbsp;  
 ### Branching blocks&nbsp;  
-&nbsp;  
 
 In Python, we branch our code using if, else and elif. This is the branching syntax:
 
