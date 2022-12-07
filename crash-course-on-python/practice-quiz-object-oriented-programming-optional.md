@@ -1,4 +1,4 @@
-# Practice Quiz: While Loops
+# Practice Quiz: Object-oriented Programming (Optional)
 
 ## Question 1
 
